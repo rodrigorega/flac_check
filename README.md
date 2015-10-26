@@ -7,8 +7,9 @@ Dependencies:
 
 Usage:
 
-    - flac_check "audio file.flac"
-    - flac_check "directory with flac files"
+    $ flac_check "audio file.flac"
+    or
+    $ flac_check "directory with flac files"
 
 Output:
 
